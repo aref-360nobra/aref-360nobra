@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @aref-360nobra.  I mean I am totally noob in programming or even anything. I created this git account to sync my VSCode settings.
+- 👋 Hi, I’m @aref-360nobra.  I mean I am totally noob in programming or even anything.
 - 👀 I’m interested in web developing but I can't find any guidline.
 - 🌱 I’m currently learning C without any roadmap or guideline. I've a source but on which way should I approach I don't know.
